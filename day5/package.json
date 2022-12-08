@@ -1,0 +1,12 @@
+{
+	"name": "day5",
+	"version": "1.0.0",
+	"description": "Day 5 js solution",
+	"main": "day5.js",
+	"type": "module",
+	"scripts": {
+		"start": "node day5.js"
+	},
+	"author": "Shirajuki",
+	"license": "ISC"
+}
