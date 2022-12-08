@@ -1,0 +1,12 @@
+{
+	"name": "day2",
+	"version": "1.0.0",
+	"description": "Day 2 js solution",
+	"main": "day2.js",
+	"type": "module",
+	"scripts": {
+		"start": "node day2.js"
+	},
+	"author": "Shirajuki",
+	"license": "ISC"
+}
