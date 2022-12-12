@@ -2,7 +2,7 @@
 
 My solutions to the Advent of Code 2022, golf style, written in some different programming languages.
 
-Solutions for python version are writtien in version 3.8 because I am too lazy to update c:
+The python solutions are written in version 3.8 because I am too lazy to update it c:
 
 ## 2022
 
