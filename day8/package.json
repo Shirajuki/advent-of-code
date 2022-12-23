@@ -1,0 +1,12 @@
+{
+	"name": "day8",
+	"version": "1.0.0",
+	"description": "Day 8 js solution",
+	"main": "day8.js",
+	"type": "module",
+	"scripts": {
+		"start": "node day8.js"
+	},
+	"author": "Shirajuki",
+	"license": "ISC"
+}
