@@ -18,7 +18,7 @@ Taking the opportunity to get some basic knowledge on Java, Rust and Golang
 - [x] Day 08: Javascript
 - [x] Day 09: Java
 - [x] Day 10: Rust
-- [ ] Day 11: Go
+- [x] Day 11: Go
 - [ ] Day 12: Python3
 - [ ] Day 13: Javascript
 - [ ] Day 14: Java
