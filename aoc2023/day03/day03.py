@@ -1,0 +1,5 @@
+# Part 1
+print(sum([m:=[],a:=open('input').read().split('\n'),[[n:="",v:=0,[[n:=n+[c,[0<=y+b[1]<len(a)and 0<=x+b[0]<len(a[0])and a[y+b[1]][x+b[0]]in"=+$&@/#*-%"and[v:=1]for b in [[-1,-1],[0,-1],[1,-1],[-1,0],[1,0],[-1,1],[0,1],[1,1]]]][0]] if c.isdigit()else[n!=""and v and m.append(int(n)),n:="",v:=0]for x,c in enumerate(l)],n!=""and v and m.append(int(n))]for y,l in enumerate(a)]][0]))
+
+# Part 2
+print(sum([m:=[[],[]],a:=open('input').read().split('\n'),r:={},[[n:=["",0,""],[[c in"*"and r.__setitem__(str([x,y]),[]),[n:=[n[0]+c,n[1],n[2]],[[0<=y+b[1]<len(a)and 0<=x+b[0]<len(a[0])and a[y+b[1]][x+b[0]]in "*"and[n:=[n[0],1,str([x+b[0],y+b[1]])]]]for b in [[-1,-1],[0,-1],[1,-1],[-1,0],[1,0],[-1,1],[0,1],[1,1]]]]if c.isdigit()else[[n[0]!=""and n[1]and m[0].append(int(n[0]))]and n[2]!=""and m[1].append(n),n:=["",0,""]]]for x,c in enumerate(l)],n[0]!=""and n[1]and m[0].append(int(n[0]))]for y,l in enumerate(a)],[r[c[2]].append(int(c[0]))for c in m[1]],[r[c][0]*r[c][1]for c in r if len(r[c])>1]][5]))
